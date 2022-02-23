@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    font-size: 100%;
+    
+}
+
+.cab,h3{
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding: 10px;
+    gap: 32px;
+    background-color: #39134b;
+    margin-bottom: auto;
+    color:rgb(224, 231, 238);
+}
+.cab-nav{
+    display: flex;
+    gap: 25px;
+
+}
+.cab-nav-item{
+    font-family: 'Montserrat', sans-serif;
+    color: #39134b;
+    font-weight:400;
+    font-size:15px;
+    
+}
+.conteudo-d-pq{
+    color: #39134b;
+}
+.conteudo-d-como{
+    color: #39134b;
+}
+.titulotit{
+    margin-top:20px;
+    flex-wrap:wrap;
+    color: #39134b;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+}
+.conteudo-sobre-titulo{
+    margin-top:20px;
+    color: #39134b;
+}
+.conteudo-video-titulo{
+    margin-top:20px;
+    color: #39134b;
+}
+.conteudo-abandono-titulo{
+    margin-top:20px;
+    color: #39134b;
+}
+.titulo-d{
+    flex-wrap:wrap;
+    color: #39134b;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 10px; 
+    justify-content: center;
+    
+}
+.imagem{
+    flex-wrap:wrap;
+    margin-top:20px;
+    display: flex;
+    align-items: center;
+    height: auto;
+    width: 100%;
+    justify-content: center;
+}
+.conteudo-video-titulo{
+    margin-bottom: 10px;
+}
+}
+.conteudo-video{
+
+    margin-top: 50px;
+}
+.conteudo{
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 30px;
+    padding-top:40px;
+    border-bottom: 20px;
+    align-content: space-between;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 50px;
+
+}
+.conteudo-d{
+    padding:40px;
+    border-bottom: 20px;
+    align-content: space-between;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 50px;
+}
+.conteudo-ancora-nav{
+    
+    align-content: space-between;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 10px;
+}
+
+.rodape{
+    align-content: space-between;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 10px;
+    padding-left: 40px;
+}
+.conteudo-regiao{
+    align-content: space-between;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 10px;
+    margin-top:10px;
+
+}
